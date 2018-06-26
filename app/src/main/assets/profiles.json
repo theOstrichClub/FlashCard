@@ -1,0 +1,157 @@
+[
+  {
+    "title":"Grazie",
+    "read":"グラーツィエ",
+    "mean":"ありがとう"
+  },
+  {
+    "title":"Prego",
+    "read":"プレーゴ",
+    "mean":"どういたしまして"
+  },
+  {
+    "title":"Buongiorno",
+    "read":"ブォンジョルノ",
+    "mean":"こんにちは"
+  },
+  {
+    "title":"Buonasera",
+    "read":"ブォナセーラ",
+    "mean":"こんばんは"
+  },
+  {
+    "title":"Buonanotte",
+    "read":"ブォナノッテ",
+    "mean":"おやすみなさい"
+  },
+  {
+    "title":"Ciao",
+    "read":"チャオ",
+    "mean":"やぁ"
+  },
+  {
+    "title":"Arrivederci",
+    "read":"アリヴェデルチ",
+    "mean":"さようなら"
+  },
+  {
+    "title":"Piacere",
+    "read":"ピアチェーレ",
+    "mean":"はじめまして"
+  },
+  {
+    "title":"Scusi",
+    "read":"スクーズィ",
+    "mean":"えっ？／すみません"
+  },
+  {
+    "title":"Permesso?",
+    "read":"ペルメッソ",
+    "mean":"前を失礼します"
+  },
+  {
+    "title":"Per favore	",
+    "read":"ペル　ファヴォーレ",
+    "mean":"お願いします"
+  },
+  {
+    "title":"Ho capito",
+    "read":"オ カピート",
+    "mean":"わかりました"
+  },
+  {
+    "title":"Non capisco",
+    "read":"ノン　カピースコ",
+    "mean":"わかりません"
+  },
+  {
+    "title":"Come?",
+    "read":"コーメ",
+    "mean":"えっ何？"
+  },
+  {
+    "title":"Va bene",
+    "read":"ヴァ　ベーネ",
+    "mean":"いいですよ"
+  },
+  {
+    "title":"Quato costa? / Quant'e?",
+    "read":"クワントコスタ / クワンテ",
+    "mean":"いくら？"
+  },
+  {
+    "title":"Dove il gabinetto?",
+    "read":"ドーヴェ イル ガビネット",
+    "mean":"お手洗いはどこですか？"
+  },
+  {
+    "title":"Sconto,per favore",
+    "read":"スコント ペルファボーレ",
+    "mean":"まけてください"
+  },
+  {
+    "title":"Prendo questo",
+    "read":"プレンド クエスト",
+    "mean":"これ下さい"
+  },
+  {
+    "title":"Un caffe,per, favore.　",
+    "read":"ウン カッフェ ペルファヴォーレ",
+    "mean":"コーヒーをお願いします"
+  },
+  {
+    "title":"Un biglietto,per favore.",
+    "read":"ウン ビリエット ペルファヴォーレ",
+    "mean":"一枚の切符をお願いします"
+  },
+  {
+    "title":"Il menu,per favore.",
+    "read":"イル メヌゥ ペルファヴォーレ",
+    "mean":"メニューをお願いします"
+  },
+  {
+    "title":"Un bicchiere di vino bianco,per favore.",
+    "read":"ウン ビキエレ ディ ヴィーノ ビアンコ ペルファヴォーレ",
+    "mean":"白ワインを１お願いします"
+  },
+  {
+    "title":"Posso ordinare,per favore.",
+    "read":"ポッソ オルディナーレ ペルファヴォーレ",
+    "mean":"オーダーお願いします"
+  },
+  {
+    "title":"Il conto, per favore.",
+    "read":"イル コント ペルファヴォーレ",
+    "mean":"お勘定お願いします"
+  },
+  {
+    "title":"Al Hotel roma,per favore.",
+    "read":"アル オテル ローマ ペルファヴォーレ",
+    "mean":"ホテルローマへお願いします"
+  },
+  {
+    "title":"Alla stazione,per favore.",
+    "read":"アッラ スタツィオーネ ペルファヴォーレ",
+    "mean":"駅までお願いします"
+  },
+  {
+    "title":"A questo indirizzo ,per favore.",
+    "read":"ア クエスト インディリッツォ ペルファヴォーレ　",
+    "mean":"この住所までお願いします"
+  },
+  {
+    "title":"Vorrei　due　biglietti.",
+    "read":"ヴォレイ ドゥエ ビリエッティ",
+    "mean":"２枚の切符がほしいのですが"
+  },
+  {
+    "title":"Vorrei un caffe.",
+    "read":"ヴォレイ ウン カフッフェ",
+    "mean":"コーヒーをお願いします"
+  },
+  {
+    "title":"Vorrei una birra alla spina.",
+    "read":"ヴォレイ ウナ ビッラ アッラ スピーナ",
+    "mean":"生ビールをお願いします"
+  }
+]
